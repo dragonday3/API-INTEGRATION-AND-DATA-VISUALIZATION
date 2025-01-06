@@ -31,4 +31,22 @@ This project serves as a practical example of how to integrate APIs, handle JSON
 - **Matplotlib**: A plotting library used for creating static, animated, and interactive visualizations in Python.
 - **Seaborn**: A statistical data visualization library based on Matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics.
 
-****
+**INSTALLATION:**
+To run this project, you need to have Python installed on your machine. You can install the required libraries using pip. Here are the steps to set up the project:
+
+1. Clone the repo to your local machine:
+   - git git clone https://github.com/dragonday3/API-INTEGRATION-AND-DATA-VISUALIZATION.git
+   - cd weather-data-visualization
+
+2. Install the required libraries:
+   - pip install requests matplotlib seaborn pandas
+   - Move to Step 3 if the libraries are already installed in your system.
+
+3. Replace the placeholder API key in the code with your own OpenWeatherMap API key.
+
+4. Run the application:
+   - python weather_visualization.py
+
+5. Follow the prompts to enter a city name and view the weather data and visualization.
+
+# **OUTPUT**
