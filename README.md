@@ -50,3 +50,4 @@ To run this project, you need to have Python installed on your machine. You can 
 5. Follow the prompts to enter a city name and view the weather data and visualization.
 
 # **OUTPUT**
+![Screenshot 2025-01-07 101903](https://github.com/user-attachments/assets/bd85585d-36e2-404c-bef5-becc5728c365)
