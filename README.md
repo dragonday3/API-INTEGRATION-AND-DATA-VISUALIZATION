@@ -17,6 +17,9 @@
 The Weather Data Visualization project is a Python-based application that fetches real-time weather data for a specified city using the OpenWeatherMap API. The application retrieves essential weather information, including temperature, humidity, and a brief weather description, and visualizes this data using bar plots. 
 This project serves as a practical example of how to integrate APIs, handle JSON data, and create visualizations using popular Python libraries such as `requests`, `pandas`, `matplotlib`, and `seaborn`.
 
+**FILES INCLUDED IN REPO:**
+- weather_data_visual.py (Main Python File)
+
 **KEY FEATURES:**
 - **Real-Time Weather Data Retrieval**: The application allows users to input a city name and fetches the current weather data from the OpenWeatherMap API. This feature demonstrates how to make HTTP requests and handle API responses in Python.
 - **Data Extraction**: The project includes a function that extracts relevant weather information from the API response. This includes temperature (in Celsius), humidity (in percentage), and a textual description of the weather conditions. This showcases the ability to parse JSON data effectively.
