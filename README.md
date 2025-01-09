@@ -34,7 +34,7 @@ This project serves as a practical example of how to integrate APIs, handle JSON
 - **Matplotlib**: A plotting library used for creating static, animated, and interactive visualizations in Python.
 - **Seaborn**: A statistical data visualization library based on Matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics.
 
-**INSTALLATION:**
+**INSTALLATION AND USAGE:**
 To run this project, you need to have Python installed on your machine. You can install the required libraries using pip. Here are the steps to set up the project:
 
 1. Clone the repo to your local machine:
