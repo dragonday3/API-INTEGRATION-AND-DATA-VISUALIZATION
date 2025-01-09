@@ -47,7 +47,7 @@ To run this project, you need to have Python installed on your machine. You can 
 3. Replace the placeholder API key in the code with your own OpenWeatherMap API key.
 
 4. Run the application:
-   - python weather_visualization.py
+   - python weather_data_visual.py
 
 5. Follow the prompts to enter a city name and view the weather data and visualization.
 
