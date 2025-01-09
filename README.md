@@ -39,7 +39,6 @@ To run this project, you need to have Python installed on your machine. You can 
 
 1. Clone the repo to your local machine:
    - git clone https://github.com/dragonday3/API-INTEGRATION-AND-DATA-VISUALIZATION.git
-   - cd weather-data-visualization
 
 2. Install the required libraries:
    - pip install requests matplotlib seaborn pandas
