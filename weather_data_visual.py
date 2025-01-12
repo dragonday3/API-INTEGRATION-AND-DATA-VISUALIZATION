@@ -75,7 +75,7 @@ def main():
     Prompts the user for a city name and fetches the corresponding weather data.
     """
     # Get user input for API key and city
-    api_key = "10d72fbc427d48e2e1d82043fed17aee"  # Replace with your own API key from OpenWeatherMap
+    api_key = ""  # Replace with your own API key from OpenWeatherMap
     city = input("Enter the city name: ")  # Specify the city for which you want the weather data
 
     # Fetch weather data
