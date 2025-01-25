@@ -26,7 +26,9 @@ This project serves as a practical example of how to integrate APIs, handle JSON
 - **Data Extraction**: The project includes a function that extracts relevant weather information from the API response. This includes temperature (in Celsius), humidity (in percentage), and a textual description of the weather conditions. This showcases the ability to parse JSON data effectively.
 
 - **Data Visualization**: The application visualizes the extracted weather data using bar plots. The seaborn library is utilized to create aesthetically pleasing and informative visualizations. This feature highlights the importance of data visualization in understanding and interpreting data.
+
 - **User Interaction**: The application prompts users to enter a city name, making it interactive and user-friendly. This aspect emphasizes the importance of user input in applications and how it can drive functionality.
+
 - **Error Handling**: The project includes basic error handling to manage invalid city names or API request failures. This ensures that users receive informative feedback when something goes wrong, enhancing the overall user experience.
 
 **TOOLS/TECH. USED:**
