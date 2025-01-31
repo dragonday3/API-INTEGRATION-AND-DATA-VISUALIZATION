@@ -1,17 +1,3 @@
-# API-INTEGRATION-AND-DATA-VISUALIZATION
-
-**COMPANY**: CODTECH IT SOLUTIONS
-
-**NAME**: KAIRAVI SHAH
-
-**INTERN ID**: CT12GAN
-
-**DOMAIN**: PYTHON PROGRAMMING
-
-**BATCH DURATION**: December 25th, 2024 to February 25th, 2025
-
-**MENTOR NAME**: NEELA SANTHOSH
-
 # **Weather Data Visualization**
 
 The Weather Data Visualization project is a Python-based application that fetches real-time weather data for a specified city using the OpenWeatherMap API. The application retrieves essential weather information, including temperature, humidity, and a brief weather description, and visualizes this data using bar plots. 
